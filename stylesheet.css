@@ -1,0 +1,101 @@
+.main{
+  padding-left:10px;
+}
+
+.title{
+  color:#02ccba;
+}
+header{
+  background-color:#000066;
+  height:100px;
+}
+header h2{
+  font-family:serif;
+  font-size:40px;
+  color:#fff;
+  text-align:center;
+  padding-top:20px;
+}
+.index {
+  margin-top: 40px;
+  padding-bottom: 20px;
+  float:left;
+  width:50%;
+  background-color: #33ff99;
+  border-radius: 30px;
+}
+.index h2{
+  padding-left: 30px;
+}
+.image1{
+  width:30%;
+  padding-left: 80px;
+}
+.last-year{
+  margin-top: 200px ;
+}
+.champion{
+  margin-top: 200px ;
+  margin-bottom: 100px;
+}
+.tokodai{
+  color:red;
+  font-weight: bold;
+  font-size:35px;
+  margin:auto 30px;
+}
+.ranking{
+  margin-top: 50px;
+}
+.rank h2{
+  border-bottom: 5px solid #ff0000;
+  width:400px;
+}
+a:hover{
+  opacity:0.6;
+}
+.first h2{
+  margin-top: 100px;
+  padding:20px 30px;
+  background-color: #ffff00;
+  width:400px;
+}
+.first{
+  margin-bottom: 60px;
+}
+.continue{
+  margin-top: 60px;
+}
+.interesting{
+  margin-top: 60px;
+}
+.interesting h2{
+  margin-left: 40px;
+  background-color: #77ffff;
+  width:300px;
+  height:60px;
+  text-align: center;
+  padding-top: 30px;
+  border-radius: 30px;
+}
+.one{
+  float:left;
+}
+.interesting img{
+  padding-left:150px;
+  width:20%;
+  height:80%;
+}
+.postscript{
+  margin-top: 80px;
+}
+footer{
+  background-color: #555;
+  height:60px;
+  color:#fff;
+  text-align: center;
+  margin-top: 80px;
+  padding-top: 30px;
+  font-size: 10px;
+  letter-spacing: 5px;
+}
